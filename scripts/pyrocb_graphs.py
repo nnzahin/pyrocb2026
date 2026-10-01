@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import BoundaryNorm, ListedColormap
 # from matplotlib.colors import LogNorm
 
-filename = "wrfout_d03_output_sample"
+filename = "wrfout_d03_last"
 time_index = 0
 cloud_level = 10
 # cloud_level = 20
